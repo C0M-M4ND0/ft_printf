@@ -1,7 +1,7 @@
 # ft_printf
-# This Project about coding function that she can  print some thing "see (Available options) below" in ``STDOUT``
+## This Project about coding function that she can  print some thing "see (Available options) below" in ``STDOUT``
   see the ``en.subject.pdf``
-## Final grade : 100/100
+### Final grade : 100/100
 
 Mandatory part : 100/100
 
